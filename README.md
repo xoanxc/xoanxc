@@ -14,7 +14,7 @@
   <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoanxc&langs_count=10&layout=compact&theme=github_dark_dimmed&card_width=430#gh-dark-mode-only" alt="top-langs" />
 </a>
 
-![](https://komarev.com/ghpvc/?color=gray&username=arichornlover)
+![](https://komarev.com/ghpvc/?color=gray&username=xoanxc)
 
 
 
