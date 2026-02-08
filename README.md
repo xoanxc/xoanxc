@@ -29,9 +29,7 @@
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoanxc&langs_count=10&layout=compact&theme=default&card_width=430#gh-light-mode-only" alt="top-langs" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xoanxc)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoanxc&langs_count=10&layout=compact&theme=github_dark_dimmed&card_width=430#gh-dark-mode-only" alt="top-langs" />
