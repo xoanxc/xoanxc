@@ -26,4 +26,4 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=xoanxc)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?color=gray&username=xoanxc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoanxc)
